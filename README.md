@@ -7,7 +7,6 @@ MSc student in Electrical Engineering (AI & ML) at EPFL. I work on reinforcement
 **Before**
 - **ETH AI Center / Swiss AI Initiative** – RL post-training of the Apertus-8B vision-language model with visual tools (cold-start SFT, then tool-augmented GRPO).
 - **N-Pulse** – deep learning to decode motor execution and imagery from EEG/EMG.
-- **EPFL** – Teaching Assistant, Probability & Statistics.
 
 #### Selected work
 
